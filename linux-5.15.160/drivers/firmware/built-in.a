@@ -1,0 +1,37 @@
+!<thin>
+//                                              238       `
+dmi_scan.o/
+dmi-id.o/
+memmap.o/
+sysfb.o/
+efi/efi-bgrt.o/
+efi/efi.o/
+efi/vars.o/
+efi/reboot.o/
+efi/memattr.o/
+efi/tpm.o/
+efi/memmap.o/
+efi/efivars.o/
+efi/esrt.o/
+efi/runtime-map.o/
+efi/runtime-wrappers.o/
+efi/sysfb_efi.o/
+efi/earlycon.o/
+
+/0              0           0     0     644     35848     `
+/12             0           0     0     644     13696     `
+/22             0           0     0     644     11200     `
+/32             0           0     0     644     4784      `
+/41             0           0     0     644     3744      `
+/57             0           0     0     644     35280     `
+/68             0           0     0     644     38992     `
+/80             0           0     0     644     3672      `
+/94             0           0     0     644     6104      `
+/109            0           0     0     644     5264      `
+/120            0           0     0     644     7536      `
+/134            0           0     0     644     22352     `
+/149            0           0     0     644     14752     `
+/161            0           0     0     644     8096      `
+/180            0           0     0     644     41992     `
+/204            0           0     0     644     25896     `
+/221            0           0     0     644     10032     `

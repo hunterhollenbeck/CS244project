@@ -1,0 +1,1 @@
+cmd_/home/joseph/Documents/linux-5.15.160/tools/objtool/fixdep-in.o :=  ld -r -o /home/joseph/Documents/linux-5.15.160/tools/objtool/fixdep-in.o  /home/joseph/Documents/linux-5.15.160/tools/objtool/fixdep.o

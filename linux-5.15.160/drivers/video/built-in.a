@@ -1,0 +1,12 @@
+!<thin>
+//                                              94        `
+hdmi.o/
+console/dummycon.o/
+console/vgacon.o/
+backlight/backlight.o/
+fbdev/core/fb_cmdline.o/
+/0              0           0     0     644     43632     `
+/8              0           0     0     644     4688      `
+/28             0           0     0     644     41512     `
+/46             0           0     0     644     29000     `
+/69             0           0     0     644     5704      `
